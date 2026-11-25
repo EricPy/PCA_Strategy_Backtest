@@ -1,0 +1,7 @@
+# Packages needed to run strategies_backtest.ipynb
+numpy
+pandas
+scipy
+lets-plot
+ipython
+jupyter
